@@ -1,0 +1,276 @@
+07-18 00:05:10.074 E/JavaBinder( 4753): !!! FAILED BINDER TRANSACTION !!!  (parcel size = 5171324)
+07-18 00:05:10.075 I/Choreographer( 4009): Skipped 689 frames!  The application may be doing too much work on its main thread.
+07-18 00:05:10.091 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbeba7c6 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:10.094 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)0 dur=12 res=0x7 s={true -5476376620423348224} ch=true fn=-1
+07-18 00:05:10.096 D/AbsListView( 4009):  in onLayout changed 
+07-18 00:05:10.111 I/OpenGLRenderer( 4009): Davey! duration=11517ms; Flags=1, IntendedVsync=7874902557944, Vsync=7886385891507, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=7886386999623, AnimationStart=7886387002238, PerformTraversalsStart=7886387089315, DrawStart=7886410052084, SyncQueued=7886413481700, SyncStart=7886416927315, IssueDrawCommandsStart=7886417230546, SwapBuffers=7886421003700, FrameCompleted=7886423085931, DequeueBufferDuration=0, QueueBufferDuration=1148000, GpuCompleted=7338008662381690912, 
+07-18 00:05:10.124 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620443042656]
+07-18 00:05:10.124 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620443042656]
+07-18 00:05:10.124 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620443046112]
+07-18 00:05:10.124 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620443046112]
+07-18 00:05:10.125 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754432640]
+07-18 00:05:10.125 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754432640]
+07-18 00:05:10.125 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754422080]
+07-18 00:05:10.125 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754422080]
+07-18 00:05:10.125 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754432256]
+07-18 00:05:10.125 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754432256]
+07-18 00:05:10.126 I/ViewRootImpl@31c6b40[MainActivity]( 4009): stopped(true) old=false
+07-18 00:05:10.126 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376616208822464]
+07-18 00:05:10.126 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376616208822464]
+07-18 00:05:10.161 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xab6c750 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1810 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:10.162 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbcbb8eb / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:10.163 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620422320160]
+07-18 00:05:10.163 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620422320160]
+07-18 00:05:10.163 I/ViewRootImpl@31c6b40[MainActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)8 dur=9 res=0x5 s={false 0} ch=false fn=-1
+07-18 00:05:10.165 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421600]
+07-18 00:05:10.165 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421600]
+07-18 00:05:10.165 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421888]
+07-18 00:05:10.165 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421888]
+07-18 00:05:10.165 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): MSG_RESIZED_REPORT: frame=(0,0,720,1600) ci=(0,68,0,84) vi=(0,0,0,84) or=1
+07-18 00:05:10.181 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618948441984]
+07-18 00:05:10.181 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618948441984]
+07-18 00:05:10.182 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbeba7c6 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:10.182 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)0 dur=9 res=0x1 s={true -5476376620423348224} ch=false fn=3
+07-18 00:05:12.199 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): MSG_WINDOW_FOCUS_CHANGED 1 1
+07-18 00:05:12.199 D/InputMethodManager( 4009): prepareNavigationBarInfo() DecorView@3446c32[DebugLogActivity]
+07-18 00:05:12.199 D/InputMethodManager( 4009): getNavigationBarColor() -14013910
+07-18 00:05:12.199 D/InputMethodManager( 4009): prepareNavigationBarInfo() DecorView@3446c32[DebugLogActivity]
+07-18 00:05:12.199 D/InputMethodManager( 4009): getNavigationBarColor() -14013910
+07-18 00:05:12.199 V/InputMethodManager( 4009): Starting input: tba=org.videolan.vlc ic=null mNaviBarColor -14013910 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+07-18 00:05:12.200 D/InputMethodManager( 4009): startInputInner - Id : 0
+07-18 00:05:12.200 I/InputMethodManager( 4009): startInputInner - mService.startInputOrWindowGainedFocus
+07-18 00:05:12.204 D/InputTransport( 4009): Input channel constructed: 'ClientS', fd=97
+07-18 00:05:12.204 D/InputTransport( 4009): Input channel destroyed: 'ClientS', fd=108
+07-18 00:05:12.215 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376616208822464]
+07-18 00:05:12.215 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376616208822464]
+07-18 00:05:12.220 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421408]
+07-18 00:05:12.220 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421408]
+07-18 00:05:12.220 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421504]
+07-18 00:05:12.220 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421504]
+07-18 00:05:17.252 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): ViewPostIme pointer 0
+07-18 00:05:17.259 D/skia    ( 4009): anh.lt2 GrGpu::createTexture2
+07-18 00:05:17.499 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): ViewPostIme pointer 1
+07-18 00:05:17.517 I/Dialog  ( 4009): mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+07-18 00:05:17.521 I/DecorView( 4009): [INFO] isPopOver=false, config=false
+07-18 00:05:17.522 I/DecorView( 4009): updateCaptionType >> DecorView@ef2a480[], isFloating=true, isApplication=true, hasWindowDecorCaption=false, hasWindowControllerCallback=false
+07-18 00:05:17.522 D/DecorView( 4009): setCaptionType = 0, this = DecorView@ef2a480[]
+07-18 00:05:17.531 D/ScrollView( 4009): initGoToTop
+07-18 00:05:17.536 D/ScrollView( 4009): initGoToTop
+07-18 00:05:17.553 D/InputTransport( 4009): Input channel constructed: '29bd558', fd=94
+07-18 00:05:17.555 I/ViewRootImpl@5f74429[DebugLogActivity]( 4009): setView = com.android.internal.policy.DecorView@ef2a480 TM=true
+07-18 00:05:17.583 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0x58a5cba / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:17.585 I/ViewRootImpl@5f74429[DebugLogActivity]( 4009): Relayout returned: old=(0,68,720,1516) new=(18,550,701,1033) req=(683,483)0 dur=11 res=0x7 s={true -5476376618964373504} ch=true fn=-1
+07-18 00:05:17.588 D/ScrollView( 4009):  onsize change changed 
+07-18 00:05:17.588 D/ScrollView( 4009):  onsize change changed 
+07-18 00:05:17.600 D/skia    ( 4009): anh.lt2 GrGpu::createTexture2
+07-18 00:05:17.609 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620423406016]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620423406016]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376616208822464]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376616208822464]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618859346240]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618859346240]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618859346336]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618859346336]
+07-18 00:05:17.611 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618859346432]
+07-18 00:05:17.611 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618859346432]
+07-18 00:05:17.620 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): MSG_WINDOW_FOCUS_CHANGED 0 1
+07-18 00:05:17.627 I/ViewRootImpl@5f74429[DebugLogActivity]( 4009): MSG_WINDOW_FOCUS_CHANGED 1 1
+07-18 00:05:23.549 I/ViewRootImpl@5f74429[DebugLogActivity]( 4009): ViewPostIme pointer 0
+07-18 00:05:23.630 I/ViewRootImpl@5f74429[DebugLogActivity]( 4009): ViewPostIme pointer 1
+07-18 00:05:23.684 I/ViewRootImpl@5f74429[DebugLogActivity]( 4009): dispatchDetachedFromWindow
+07-18 00:05:23.684 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421408]
+07-18 00:05:23.684 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421408]
+07-18 00:05:23.697 D/InputTransport( 4009): Input channel destroyed: '29bd558', fd=94
+07-18 00:05:23.704 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754432256]
+07-18 00:05:23.704 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754432256]
+07-18 00:05:23.704 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754432640]
+07-18 00:05:23.704 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754432640]
+07-18 00:05:23.705 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620443051008]
+07-18 00:05:23.705 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620443051008]
+07-18 00:05:23.799 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620443050912]
+07-18 00:05:23.799 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620443050912]
+07-18 00:05:23.799 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620423408032]
+07-18 00:05:23.799 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620423408032]
+07-18 00:05:23.799 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376616208822464]
+07-18 00:05:23.799 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376616208822464]
+07-18 00:05:24.219 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421888]
+07-18 00:05:24.219 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421888]
+07-18 00:05:24.220 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xd24837 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1810 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:24.220 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbeba7c6 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:24.221 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620423407552]
+07-18 00:05:24.221 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620423407552]
+07-18 00:05:24.221 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)8 dur=7 res=0x5 s={false 0} ch=true fn=31
+07-18 00:05:24.835 D/InputTransport( 4009): Input channel destroyed: 'ClientS', fd=97
+07-18 00:05:24.841 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): stopped(true) old=false
+07-18 00:05:24.875 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421888]
+07-18 00:05:24.875 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421888]
+07-18 00:05:24.897 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xd24837 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1810 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:24.897 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbeba7c6 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:24.898 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)8 dur=8 res=0x5 s={false 0} ch=false fn=-1
+07-18 00:05:24.898 W/VLC/VLCApplication( 4009): onTrimMemory, level: 20
+07-18 00:06:15.346 W/VLC/VLCApplication( 4753): onTrimMemory, level: 15
+07-18 00:06:15.413 W/VLC/VLCApplication( 4009): onTrimMemory, level: 80
+07-18 00:06:20.917 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xd24837 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1810 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:06:20.917 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbeba7c6 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:06:20.919 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)4 dur=13 res=0x1 s={false 0} ch=false fn=-1
+07-18 00:06:20.919 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): stopped(false) old=true
+07-18 00:06:20.994 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbeba7c6 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:06:20.995 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)0 dur=11 res=0x7 s={true -5476376620423348224} ch=true fn=-1
+07-18 00:06:21.043 D/skia    ( 4009): anh.lt2 GrGpu::createTexture2
+07-18 00:06:21.045 D/skia    ( 4009): anh.lt2 GrGpu::createTexture1
+07-18 00:06:21.115 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): stopped(false) old=false
+07-18 00:06:21.122 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): MSG_WINDOW_FOCUS_CHANGED 1 1
+07-18 00:06:21.122 D/InputMethodManager( 4009): prepareNavigationBarInfo() DecorView@3446c32[DebugLogActivity]
+07-18 00:06:21.122 D/InputMethodManager( 4009): getNavigationBarColor() -14013910
+07-18 00:06:21.122 D/InputMethodManager( 4009): prepareNavigationBarInfo() DecorView@3446c32[DebugLogActivity]
+07-18 00:06:21.122 D/InputMethodManager( 4009): getNavigationBarColor() -14013910
+07-18 00:06:21.122 V/InputMethodManager( 4009): Starting input: tba=org.videolan.vlc ic=null mNaviBarColor -14013910 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+07-18 00:06:21.123 D/InputMethodManager( 4009): startInputInner - Id : 0
+07-18 00:06:21.123 I/InputMethodManager( 4009): startInputInner - mService.startInputOrWindowGainedFocus
+07-18 00:06:21.126 D/InputTransport( 4009): Input channel constructed: 'ClientS', fd=93
+07-18 00:06:21.140 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620423408704]
+07-18 00:06:21.140 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620423408704]
+07-18 00:06:21.140 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376616208822464]
+07-18 00:06:21.140 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376616208822464]
+07-18 00:06:21.249 I/olan.vlc:logge( 4753): Waiting for a blocking GC ProfileSaver
+07-18 00:06:21.339 D/skia    ( 4009): anh.lt2 GrGpu::createTexture1
+07-18 00:06:23.088 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): ViewPostIme pointer 0
+07-18 00:06:23.096 D/skia    ( 4009): anh.lt2 GrGpu::createTexture2
+07-18 00:05:10.074 E/JavaBinder( 4753): !!! FAILED BINDER TRANSACTION !!!  (parcel size = 5171324)
+07-18 00:05:10.075 I/Choreographer( 4009): Skipped 689 frames!  The application may be doing too much work on its main thread.
+07-18 00:05:10.091 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbeba7c6 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:10.094 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)0 dur=12 res=0x7 s={true -5476376620423348224} ch=true fn=-1
+07-18 00:05:10.096 D/AbsListView( 4009):  in onLayout changed 
+07-18 00:05:10.111 I/OpenGLRenderer( 4009): Davey! duration=11517ms; Flags=1, IntendedVsync=7874902557944, Vsync=7886385891507, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=7886386999623, AnimationStart=7886387002238, PerformTraversalsStart=7886387089315, DrawStart=7886410052084, SyncQueued=7886413481700, SyncStart=7886416927315, IssueDrawCommandsStart=7886417230546, SwapBuffers=7886421003700, FrameCompleted=7886423085931, DequeueBufferDuration=0, QueueBufferDuration=1148000, GpuCompleted=7338008662381690912, 
+07-18 00:05:10.124 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620443042656]
+07-18 00:05:10.124 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620443042656]
+07-18 00:05:10.124 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620443046112]
+07-18 00:05:10.124 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620443046112]
+07-18 00:05:10.125 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754432640]
+07-18 00:05:10.125 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754432640]
+07-18 00:05:10.125 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754422080]
+07-18 00:05:10.125 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754422080]
+07-18 00:05:10.125 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754432256]
+07-18 00:05:10.125 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754432256]
+07-18 00:05:10.126 I/ViewRootImpl@31c6b40[MainActivity]( 4009): stopped(true) old=false
+07-18 00:05:10.126 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376616208822464]
+07-18 00:05:10.126 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376616208822464]
+07-18 00:05:10.161 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xab6c750 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1810 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:10.162 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbcbb8eb / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:10.163 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620422320160]
+07-18 00:05:10.163 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620422320160]
+07-18 00:05:10.163 I/ViewRootImpl@31c6b40[MainActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)8 dur=9 res=0x5 s={false 0} ch=false fn=-1
+07-18 00:05:10.165 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421600]
+07-18 00:05:10.165 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421600]
+07-18 00:05:10.165 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421888]
+07-18 00:05:10.165 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421888]
+07-18 00:05:10.165 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): MSG_RESIZED_REPORT: frame=(0,0,720,1600) ci=(0,68,0,84) vi=(0,0,0,84) or=1
+07-18 00:05:10.181 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618948441984]
+07-18 00:05:10.181 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618948441984]
+07-18 00:05:10.182 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbeba7c6 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:10.182 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)0 dur=9 res=0x1 s={true -5476376620423348224} ch=false fn=3
+07-18 00:05:12.199 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): MSG_WINDOW_FOCUS_CHANGED 1 1
+07-18 00:05:12.199 D/InputMethodManager( 4009): prepareNavigationBarInfo() DecorView@3446c32[DebugLogActivity]
+07-18 00:05:12.199 D/InputMethodManager( 4009): getNavigationBarColor() -14013910
+07-18 00:05:12.199 D/InputMethodManager( 4009): prepareNavigationBarInfo() DecorView@3446c32[DebugLogActivity]
+07-18 00:05:12.199 D/InputMethodManager( 4009): getNavigationBarColor() -14013910
+07-18 00:05:12.199 V/InputMethodManager( 4009): Starting input: tba=org.videolan.vlc ic=null mNaviBarColor -14013910 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+07-18 00:05:12.200 D/InputMethodManager( 4009): startInputInner - Id : 0
+07-18 00:05:12.200 I/InputMethodManager( 4009): startInputInner - mService.startInputOrWindowGainedFocus
+07-18 00:05:12.204 D/InputTransport( 4009): Input channel constructed: 'ClientS', fd=97
+07-18 00:05:12.204 D/InputTransport( 4009): Input channel destroyed: 'ClientS', fd=108
+07-18 00:05:12.215 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376616208822464]
+07-18 00:05:12.215 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376616208822464]
+07-18 00:05:12.220 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421408]
+07-18 00:05:12.220 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421408]
+07-18 00:05:12.220 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421504]
+07-18 00:05:12.220 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421504]
+07-18 00:05:17.252 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): ViewPostIme pointer 0
+07-18 00:05:17.259 D/skia    ( 4009): anh.lt2 GrGpu::createTexture2
+07-18 00:05:17.499 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): ViewPostIme pointer 1
+07-18 00:05:17.517 I/Dialog  ( 4009): mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+07-18 00:05:17.521 I/DecorView( 4009): [INFO] isPopOver=false, config=false
+07-18 00:05:17.522 I/DecorView( 4009): updateCaptionType >> DecorView@ef2a480[], isFloating=true, isApplication=true, hasWindowDecorCaption=false, hasWindowControllerCallback=false
+07-18 00:05:17.522 D/DecorView( 4009): setCaptionType = 0, this = DecorView@ef2a480[]
+07-18 00:05:17.531 D/ScrollView( 4009): initGoToTop
+07-18 00:05:17.536 D/ScrollView( 4009): initGoToTop
+07-18 00:05:17.553 D/InputTransport( 4009): Input channel constructed: '29bd558', fd=94
+07-18 00:05:17.555 I/ViewRootImpl@5f74429[DebugLogActivity]( 4009): setView = com.android.internal.policy.DecorView@ef2a480 TM=true
+07-18 00:05:17.583 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0x58a5cba / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:17.585 I/ViewRootImpl@5f74429[DebugLogActivity]( 4009): Relayout returned: old=(0,68,720,1516) new=(18,550,701,1033) req=(683,483)0 dur=11 res=0x7 s={true -5476376618964373504} ch=true fn=-1
+07-18 00:05:17.588 D/ScrollView( 4009):  onsize change changed 
+07-18 00:05:17.588 D/ScrollView( 4009):  onsize change changed 
+07-18 00:05:17.600 D/skia    ( 4009): anh.lt2 GrGpu::createTexture2
+07-18 00:05:17.609 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620423406016]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620423406016]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376616208822464]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376616208822464]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618859346240]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618859346240]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618859346336]
+07-18 00:05:17.610 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618859346336]
+07-18 00:05:17.611 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618859346432]
+07-18 00:05:17.611 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618859346432]
+07-18 00:05:17.620 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): MSG_WINDOW_FOCUS_CHANGED 0 1
+07-18 00:05:17.627 I/ViewRootImpl@5f74429[DebugLogActivity]( 4009): MSG_WINDOW_FOCUS_CHANGED 1 1
+07-18 00:05:23.549 I/ViewRootImpl@5f74429[DebugLogActivity]( 4009): ViewPostIme pointer 0
+07-18 00:05:23.630 I/ViewRootImpl@5f74429[DebugLogActivity]( 4009): ViewPostIme pointer 1
+07-18 00:05:23.684 I/ViewRootImpl@5f74429[DebugLogActivity]( 4009): dispatchDetachedFromWindow
+07-18 00:05:23.684 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421408]
+07-18 00:05:23.684 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421408]
+07-18 00:05:23.697 D/InputTransport( 4009): Input channel destroyed: '29bd558', fd=94
+07-18 00:05:23.704 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754432256]
+07-18 00:05:23.704 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754432256]
+07-18 00:05:23.704 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754432640]
+07-18 00:05:23.704 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754432640]
+07-18 00:05:23.705 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620443051008]
+07-18 00:05:23.705 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620443051008]
+07-18 00:05:23.799 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620443050912]
+07-18 00:05:23.799 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620443050912]
+07-18 00:05:23.799 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620423408032]
+07-18 00:05:23.799 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620423408032]
+07-18 00:05:23.799 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376616208822464]
+07-18 00:05:23.799 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376616208822464]
+07-18 00:05:24.219 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421888]
+07-18 00:05:24.219 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421888]
+07-18 00:05:24.220 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xd24837 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1810 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:24.220 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbeba7c6 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:24.221 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620423407552]
+07-18 00:05:24.221 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620423407552]
+07-18 00:05:24.221 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)8 dur=7 res=0x5 s={false 0} ch=true fn=31
+07-18 00:05:24.835 D/InputTransport( 4009): Input channel destroyed: 'ClientS', fd=97
+07-18 00:05:24.841 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): stopped(true) old=false
+07-18 00:05:24.875 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376618754421888]
+07-18 00:05:24.875 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376618754421888]
+07-18 00:05:24.897 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xd24837 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1810 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:24.897 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbeba7c6 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:05:24.898 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)8 dur=8 res=0x5 s={false 0} ch=false fn=-1
+07-18 00:05:24.898 W/VLC/VLCApplication( 4009): onTrimMemory, level: 20
+07-18 00:06:15.346 W/VLC/VLCApplication( 4753): onTrimMemory, level: 15
+07-18 00:06:15.413 W/VLC/VLCApplication( 4009): onTrimMemory, level: 80
+07-18 00:06:20.917 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xd24837 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1810 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:06:20.917 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbeba7c6 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:06:20.919 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)4 dur=13 res=0x1 s={false 0} ch=false fn=-1
+07-18 00:06:20.919 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): stopped(false) old=true
+07-18 00:06:20.994 I/SurfaceControl( 4009): assignNativeObject: nativeObject = 0 Surface(name=null)/@0xbeba7c6 / android.view.SurfaceControl.readFromParcel:1117 android.view.IWindowSession$Stub$Proxy.relayout:1820 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995 
+07-18 00:06:20.995 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)0 dur=11 res=0x7 s={true -5476376620423348224} ch=true fn=-1
+07-18 00:06:21.043 D/skia    ( 4009): anh.lt2 GrGpu::createTexture2
+07-18 00:06:21.045 D/skia    ( 4009): anh.lt2 GrGpu::createTexture1
+07-18 00:06:21.115 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): stopped(false) old=false
+07-18 00:06:21.122 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): MSG_WINDOW_FOCUS_CHANGED 1 1
+07-18 00:06:21.122 D/InputMethodManager( 4009): prepareNavigationBarInfo() DecorView@3446c32[DebugLogActivity]
+07-18 00:06:21.122 D/InputMethodManager( 4009): getNavigationBarColor() -14013910
+07-18 00:06:21.122 D/InputMethodManager( 4009): prepareNavigationBarInfo() DecorView@3446c32[DebugLogActivity]
+07-18 00:06:21.122 D/InputMethodManager( 4009): getNavigationBarColor() -14013910
+07-18 00:06:21.122 V/InputMethodManager( 4009): Starting input: tba=org.videolan.vlc ic=null mNaviBarColor -14013910 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+07-18 00:06:21.123 D/InputMethodManager( 4009): startInputInner - Id : 0
+07-18 00:06:21.123 I/InputMethodManager( 4009): startInputInner - mService.startInputOrWindowGainedFocus
+07-18 00:06:21.126 D/InputTransport( 4009): Input channel constructed: 'ClientS', fd=93
+07-18 00:06:21.140 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376620423408704]
+07-18 00:06:21.140 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376620423408704]
+07-18 00:06:21.140 I/SurfaceControl( 4009): nativeRelease nativeObject s[-5476376616208822464]
+07-18 00:06:21.140 I/SurfaceControl( 4009): nativeRelease nativeObject e[-5476376616208822464]
+07-18 00:06:21.249 I/olan.vlc:logge( 4753): Waiting for a blocking GC ProfileSaver
+07-18 00:06:21.339 D/skia    ( 4009): anh.lt2 GrGpu::createTexture1
+07-18 00:06:23.088 I/ViewRootImpl@e8368ee[DebugLogActivity]( 4009): ViewPostIme pointer 0
+07-18 00:06:23.096 D/skia    ( 4009): anh.lt2 GrGpu::createTexture2
